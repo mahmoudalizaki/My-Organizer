@@ -13,7 +13,7 @@ The **File Organizer** application helps you manage and organize your files by c
 
 ## Screenshot
 
-![File Organizer]([screenshot.png](https://github.com/mahmoudalizaki/My-Organizer/blob/main/screenshot.PNG?raw=true))  <!-- Replace with the path to your application's screenshot -->
+![File Organizer](https://github.com/mahmoudalizaki/My-Organizer/blob/main/screenshot.PNG?raw=true)  <!-- Replace with the path to your application's screenshot -->
 
 ## Getting Started
 
@@ -28,4 +28,4 @@ The **File Organizer** application helps you manage and organize your files by c
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/file-organizer.git
+   git clone https://github.com/mahmoudalizaki/file-organizer.git
